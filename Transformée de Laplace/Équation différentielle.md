@@ -6,13 +6,13 @@
 
 Phương trình vi phân của hệ thống được cho bởi:
 
-\[
+$$
 \frac{d^3y(t)}{dt^3} + 3\frac{d^2y(t)}{dt^2} + 5\frac{dy(t)}{dt} + y(t) = \frac{d^3x(t)}{dt^3} + 4\frac{d^2x(t)}{dt^2} + 6\frac{dx(t)}{dt} + 8x(t)
-\]
+$$
 
 Trong đó:
-- \( y(t) \) là đầu ra của hệ thống.
-- \( x(t) \) là đầu vào của hệ thống.
+- $ y(t) $ là đầu ra của hệ thống.
+- $ x(t) $ là đầu vào của hệ thống.
 
 ## Đoạn mã MATLAB
 
