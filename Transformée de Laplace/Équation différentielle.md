@@ -1,4 +1,4 @@
-# Giải thích đoạn mã MATLAB
+# Biến đổi Laplace của phương trình vi phân
 
 Đoạn mã dưới đây sử dụng các công cụ tính toán biểu tượng của MATLAB để phân tích và chuyển đổi một phương trình vi phân bậc ba thành miền Laplace, sau đó tính toán hàm truyền (Transfer Function) và vẽ đồ thị đáp ứng bước (Step Response).
 
