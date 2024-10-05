@@ -11,8 +11,8 @@ $$
 $$
 
 Trong đó:
-- $ y(t) $ là đầu ra của hệ thống.
-- $ x(t) $ là đầu vào của hệ thống.
+- $y(t)$ là đầu ra của hệ thống.
+- $x(t)$ là đầu vào của hệ thống.
 
 ## Đoạn mã MATLAB
 
